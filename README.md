@@ -2,8 +2,6 @@
 
 This project contains source code and documentation for a Book My Show website that uses Low-Level Design (LLD) concepts. The website allows users to browse and book tickets for movies, concerts, and other events.
 
-Re
-
 
 ## Requirement Gathering
     1.  Customer
